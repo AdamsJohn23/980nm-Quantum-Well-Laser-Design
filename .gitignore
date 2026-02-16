@@ -1,0 +1,42 @@
+# =========================
+# MATLAB Temporary Files
+# =========================
+
+*.asv
+*.autosave
+*.m~
+*.mlx~
+*.fig~
+
+# MATLAB Editor / Desktop State
+*.prj
+*.mlsettings
+*.matlab
+
+# MATLAB Simulink Autosave
+slprj/
+*.slxc
+
+# =========================
+# OS Generated Files
+# =========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE / Editor Files
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+
+*.log
