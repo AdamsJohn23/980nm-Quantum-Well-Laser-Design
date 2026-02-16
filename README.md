@@ -79,7 +79,7 @@ The final structure maintains lattice compatibility while achieving 980 nm emiss
 
 ## How to Run
 
-1. Open `laser980nm.m` in MATLAB.
+1. Open `Laser980nm.m` in MATLAB.
 2. Run the script.
 3. The parameter sweep outputs the well thickness that most closely matches 980 nm emission.
 
