@@ -4,6 +4,11 @@ Parametric MATLAB model for designing a 980 nm InGaAs/GaAs quantum well laser un
 
 ---
 
+📄 **Full report available here:**  
+[Download PDF](docs/980nm-laser-diode-design.pdf)
+
+---
+
 ## Overview
 
 This project presents a numerical design approach for a 980 nm quantum well semiconductor laser intended for use in erbium-doped fiber amplifier (EDFA) systems. The objective is to determine a physically realistic material structure that achieves emission at 980 nm while satisfying lattice-matching constraints with a GaAs substrate.
